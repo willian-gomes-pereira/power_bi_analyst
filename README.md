@@ -1,3 +1,3 @@
 # power_bi_analyst
 
-Repositório relacionado a formação de Power BI Analyst
+Foi realizado o processo de ETL e modelagem de dados, e posteriormente feito a tabela calendar.
